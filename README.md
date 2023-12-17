@@ -1,4 +1,4 @@
-# TCS Employee Dashboard
+# Employee Dashboard
 
 ### Dashboard View
 
