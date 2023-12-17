@@ -17,7 +17,7 @@ To run the project you need to open 2 terminals and run the server and client co
 JSON-Server setup
 
 ```
-cd tcs
+cd employee-dashboard
 sudo npm install -g json-server      // Install the json-server globally
 sudo json-server -w ./data/db.js     // Starting the json-server
 ```
@@ -25,7 +25,7 @@ sudo json-server -w ./data/db.js     // Starting the json-server
 Vue.js Client setup
 
 ```
-cd tcs
+cd employee-dashboard
 npm install
 npm run build
 npm run preview
