@@ -1,4 +1,4 @@
-# Employee Dashboard
+# Employee Job Application Dashboard
 
 ### Dashboard View
 
